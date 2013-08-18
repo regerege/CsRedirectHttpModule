@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Redirects>
+  <Redirect target="/default.aspx" pattern="ja" redirect="/jp.html" />
+  <Redirect target="/default.aspx" pattern="en-US;q=0.8" redirect="/en.html" />
+</Redirects>
